@@ -1,8 +1,7 @@
 # ignore directories
-node_modules/
-output/
-tmp/
+#node_modules/
+#output/
+#tmp/
 
 #ignore specific filenames
-export.xml
-.DS_Store
+#export.xml
