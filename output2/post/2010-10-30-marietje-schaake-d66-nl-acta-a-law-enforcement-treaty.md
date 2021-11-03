@@ -1,0 +1,13 @@
+---
+title: "Marietje Schaake (D66, NL): ACTA - a law enforcement treaty?"
+date: "2010-10-30"
+categories: 
+  - "eu"
+---
+
+[Question for written answer E-8847/2010](http://www.europarl.europa.eu/sidesSearch/search.do?type=QP&language=EN&term=7&author=96945) to the Commission Rule 117 Marietje Schaake (ALDE) Subject: ACTA - a law enforcement treaty? There is public concern worldwide about the lack of formal transparency in the ACTA negotiation process, such as illustrated in the article ‘ACTA Guide, Part Three: Transparency and ACTA Secrecy’, by Professor Michael Geist (see [http://www.michaelgeist.ca/content/view/4737/125/](http://www.michaelgeist.ca/content/view/4737/125/)). Other articles and open letters can be found at the following shortened addresses: [http://bit.ly/4EdMKK](http://bit.ly/4EdMKK), [http://bit.ly/4CJv2n](http://bit.ly/4CJv2n), [http://bit.ly/bdUGlx](http://bit.ly/bdUGlx) and [http://bit.ly/aQDUO2](http://bit.ly/aQDUO2). Parliament has repeatedly asked the Commission for transparency in the ACTA negotiations, but to no avail. 1. Does the Commission accept that an agreement which contains specific and extensive civil and criminal law enforcement measures does not qualify as a trade agreement, but as a law enforcement treaty? If not, why not? 2. Does it agree that the classification of ACTA as a trade agreement has enabled the parties to seek non-transparent negotiations? If not, why not? 3. Is it willing to contest the classification of ACTA as a trade agreement, on the grounds that it in fact seeks to regulate illegal and criminal activities? If not, why not? 4. Can it explain the legal status of the document ‘Maintaining Confidentiality of Documents’, which can be found at [http://bit.ly/b23KAc](http://bit.ly/b23KAc)? Does the Commission’s negotiating mandate authorise it to agree to the conditions set out in this document? Is it bound by the language used in this document, for example the opening sentence: ‘First, we agree that documents relating to the proposed Anti-Counterfeiting Trade Agreement (ACTA) will be held in confidence’? Did it sign this document? 5. Does it agree that by complying with other negotiating parties’ demands for non-transparency, it has compromised the rules and regulations on access to information and transparency in the European Union, as laid down in the Lisbon Treaty and in Regulation 1049/20011? If not, why not?
+
+**Observations**
+
+- Excellent questions.
+- Marietje Schaakes asks a question about the right of the Commission/Council to conclude confidentiality agreements with third nations which overrule Art 15 TFUE.

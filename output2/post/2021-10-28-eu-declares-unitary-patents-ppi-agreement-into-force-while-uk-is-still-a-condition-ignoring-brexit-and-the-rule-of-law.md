@@ -1,0 +1,29 @@
+---
+title: "EU declares Unitary Patent's PPI agreement into force while UK is still a condition, ignoring Brexit and the Rule of Law"
+date: "2021-10-28"
+categories: 
+  - "ffii"
+---
+
+**Brussels, 29 october 2021 -- The Council of the European Union has declared 'into force' the Unitary Patent's PPI agreement on the 27th October 2021, while the UK is still mentioned in its Art18(1) as a requirement for it to enter into force. The Council of the EU is bruteforcing international law and the Vienna Convention on the Law of the Treaties (VCLT), which says that "treaties shall be interpreted in good faith in accordance with the ordinary meaning".**
+
+The Article 18(1) on the Entry into force is pretty clear:
+
+> _"This Protocol shall enter into force 30 days after the date on which the last of the four State Parties - France, Germany, Luxemburg and the **United Kingdom** - has deposited its instrument of ratification, acceptance approval or accession_."
+> 
+> \-- Protocol on Privileges and Immunities of the Unified Patent Court - Article 18(1) [https://www.unified-patent-court.org/sites/default/files/ppi\_final\_ii\_en\_clean.pdf](https://www.unified-patent-court.org/sites/default/files/ppi_final_ii_en_clean.pdf)
+
+Proponents of the Unitary Patent project want software patents enforcable across Europe via the jurisprudence of such a Court, without the intervention of the European Court of Justice in patent law. They want to avoid a renegotiation of the UPC treaties (UPCA, PPI, PPA) at any cost, because it would create some delay.
+
+Benjamin Henrion, President of FFII, says: _"This is a gross maladministration by the Council of the European Union, who is responsible for checking the rules, and the Vienna Convention on the Law of the Treaties (VCLT). Treaties are not worth the paper they are written on. We will look at seizing the Ombudsman and escalade this to the European Court of Justice. The European Union is criticizing Poland for not respecting the Rule of Law, but they are not doing any better."_
+
+FFII oppose last week move by the unelected Preparatory Committee of the UPC to draft legislation **behind closed doors** to reinterpret the Treaty at their own will and fix the Brexit issue with dubious "Declarations", and without the involvement of any Parliament. The Council of Ministers and this Preparatory Committee of the UPC suffer from a democratic deficit for too long. We are sick and tired of this european undemocratic law making behind closed doors by countries officials in the Council of the European Union (ex-Council of Ministers) in the name of our nations. Discussion on this point in the last COMPET Council by the Slovenian Presidency was done **"off camera"**. Representatives of participating states don't have any mandate to do law making from their respective national parliaments. Nor they have a mandate to authorize the setup of a "Signing" ceremony of this Declaration. We **call for a proper parliamentary debate in each of the participating states**, with a clear negotiating mandate for each delegation. In the CETA debacle, only 3 national parliaments out of 28 discussed the content of the Treaty. National Parliaments are being bypassed and treated like **"recording chambers"**.
+
+#### Links
+
+- Unified-patent-court: UK Withdrawal from the UPCA, 20 July 2020: _"Today, by means of a Note Verbale, the United Kingdom of Great Britain and Northern Ireland has withdrawn its ratification of the Agreement on a Unified Patent Court and the Protocol on Privileges and Immunities of the Unified Patent Court"_ [https://www.unified-patent-court.org/news/uk-withdrawal-upca](https://www.unified-patent-court.org/news/uk-withdrawal-upca)
+- Council of the European Union: Protocol on Privileges and Immunities (PPI) of the Unified Patent Court (UPC): "Entry into force 27/10/2021" [https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/agreement/?id=2016047](https://www.consilium.europa.eu/en/documents-publications/treaties-agreements/agreement/?id=2016047)
+- Kluwer Patent Blog: Member States will sign Declaration to clear way for preparatory phase Unified Patent Court: _"It also pointed out that the Protocol on Privileges and Immunities entered into force as of the day of the meeting, 27 October 2021, one month after Germany deposited its instrument of ratification. So far there has not been much discussion about the PPI’s article 18(1), which states the United Kingdom has to support the PPI as well."_ [http://patentblog.kluweriplaw.com/2021/10/28/member-states-will-sign-declaration-to-clear-way-for-preparatory-phase-unified-patent-court/](http://patentblog.kluweriplaw.com/2021/10/28/member-states-will-sign-declaration-to-clear-way-for-preparatory-phase-unified-patent-court/)
+- Vienna Convention of the Law of the Treaties (VCLT), _"Article 31: General rule of interpretation 1. A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose."_ [http://translex.uni-koeln.de/500600/\_/vienna-convention-on-the-law-of-treaties-of-1969/](http://translex.uni-koeln.de/500600/_/vienna-convention-on-the-law-of-treaties-of-1969/)
+- Unified-patent-court.org: Protocol on Privileges and Immunities of the Unified Patent Court [https://www.unified-patent-court.org/sites/default/files/ppi\_final\_ii\_en\_clean.pdf](https://www.unified-patent-court.org/sites/default/files/ppi_final_ii_en_clean.pdf)
+- Quora: The agreements signed by Russia aren't worth the price of the sheet of paper they are written on h[ttps://www.quora.com/Is-it-true-that-Otto-von-Bismarck-said-The-agreements-signed-by-Russia-arent-worth-the-price-of-the-sheet-of-paper-they-are-written-on](ttps://www.quora.com/Is-it-true-that-Otto-von-Bismarck-said-The-agreements-signed-by-Russia-arent-worth-the-price-of-the-sheet-of-paper-they-are-written-on)
